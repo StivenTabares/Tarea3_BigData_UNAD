@@ -1,0 +1,4 @@
+sensor_id,temp_promedio,humedad_promedio,temp_maxima
+sensor_1,22.75,44.75,23.0
+sensor_2,35.55,59.05,36.0
+sensor_3,19.8,70.2,19.8
